@@ -23,3 +23,12 @@
     left: 0px;
   }
 }
+
+.portfolio {
+  padding-bottom: 80px;
+}
+
+.carousel-inner {
+  max-height: 400px;
+  max-width: 740px;
+}
